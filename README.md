@@ -1,5 +1,5 @@
 
-# Car Price Prediction ML Web App 🚗💰
+# SAM's Car Price Prediction ML Web App 🚗💰
 
 This project is a **Car Price Prediction web application** built using **Machine Learning algorithms and deployed using Streamlit**.  
 It allows users to input car details and get the predicted resale price of the car in India.
